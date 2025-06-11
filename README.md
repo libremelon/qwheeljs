@@ -1,6 +1,8 @@
 # **QWheel (Progress Tracker)**
 
-A simple Electron-based application that helps visualize subject-wise and cumulative progress for exam preparation.
+A simple Electron-based application that helps visualize subject-wise and cumulative progress for the Marks App Top 500 Question Bank
+
+![image](https://github.com/user-attachments/assets/36211ac7-436b-40d5-8345-dc5d8f9ed67d)
 
 ## **Features**
 
